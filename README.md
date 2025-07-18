@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Ângelo</h1>
 <p align="center">
-  💻 Computer Science Student | Software Developer in Progress | Passionate About Building and Learning
+  💻 Computer Science Student | Software Developer | Passionate About Building and Learning
 </p>
 
 ---
