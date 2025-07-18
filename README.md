@@ -1,11 +1,12 @@
 <h1 align="center">Hey there! 👋 I'm Ângelo</h1>
 <p align="center">
-  💻 Computer Science Student | Full-Stack Developer in Progress | Passionate About Building and Learning
+  💻 Computer Science Student | Software Developer in Progress | Passionate About Building and Learning
 </p>
 
 ---
 
-### 👨‍💻 About Me
+
+### 👨‍💻 About Me 
 
 Hi! I'm a Computer Science student at **UFABC**, currently pursuing the **Bachelor of Science and Technology (BC&T)** and **Computer Science**. I started my tech journey with a **Technical Degree in Industrial Automation**, where I discovered my passion for programming and technology.
 
@@ -47,7 +48,7 @@ I love learning, building side projects, and solving real-world problems with co
 Web application for analyzing Nubank account invoices, with login, file upload, spreadsheet reading system, for dashboard viewing using the Chart.js library with intelligent categorization. [link](https://github.com/AngeloFinassi/NuControl)
 
 **Solar Tracker**
-The Solar Tracker is a project that combines microcontroller programming (Arduino-ATmega328P), sensor integration (such as LDRs), and motor control to create an efficient and autonomous platform. This robotics project uses C++, electronics, and mechanics.[link](https://github.com/AngeloFinassi/Solar-Tracker---TCC)
+The Solar Tracker is a project that combines microcontroller programming (Arduino-ATmega328P), sensor integration (such as LDRs), and motor control to create an efficient and autonomous platform. This robotics project uses C++, electronics, and mechanics. [link](https://github.com/AngeloFinassi/Solar-Tracker---TCC)
 
 ---
 
