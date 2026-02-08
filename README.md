@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Ângelo</h1>
 <p align="center">
-  💻 Computer Science Student | Software Developer | Passionate About Building and Learning
+  💻 Software Developer | Computer Science Student | Passionate About Building and Learning
 </p>
 
 ---
@@ -8,9 +8,9 @@
 
 ### 👨‍💻 About Me 
 
-Hi! I'm a Computer Science student at **UFABC**, currently pursuing the **Bachelor of Science and Technology (BC&T)** and **Computer Science**. I started my tech journey with a **Technical Degree in Industrial Automation**, where I discovered my passion for programming and technology.
+Hi! I'm a Fullstack Software Engineer at Blip, and I'm also studying Computer Science at UFABC. I love seeing the power of "colorful letters" in action and what they can built.
 
-I love learning, building side projects, and solving real-world problems with code. My focus today is full-stack development and exploring how I can integrate back-end solutions with smart, clean front-end design.
+This is my repository, with entire projects, personal studies, college works, etc...
 
 ---
 
@@ -34,6 +34,8 @@ I love learning, building side projects, and solving real-world problems with co
 
 ---
 ### 🛠️ Projects
+**Stock Investimwnt System**
+Investment Aggregator is a RESTful API for managing investment accounts and stocks, with real-time price integration via an external financial API. [link](https://github.com/AngeloFinassi/stock-investment-system-Project)
 
 **NuControl**
 Web application for analyzing Nubank account invoices, with login, file upload, spreadsheet reading system, for dashboard viewing using the Chart.js library with intelligent categorization. [link](https://github.com/AngeloFinassi/NuControl)
