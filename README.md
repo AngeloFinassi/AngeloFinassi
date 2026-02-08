@@ -33,15 +33,6 @@ I love learning, building side projects, and solving real-world problems with co
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngeloFinassi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloFinassi&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</div>
-
----
 ### 🛠️ Projects
 
 **NuControl**
