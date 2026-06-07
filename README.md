@@ -31,14 +31,14 @@ This is my repository, with entire projects, personal studies, college works, et
 
 ---
 ### 🛠️ Projects
+**FinanceSystem**
+A secure personal finance management API built with Spring Boot, JWT, MySQL, and Docker. Supports accounts, transactions, budgets, savings goals, and real-time financial tracking. [link](https://github.com/AngeloFinassi/FinanceSystem)
+
 **Stock Investimwnt System**
 Investment Aggregator is a RESTful API for managing investment accounts and stocks, with real-time price integration via an external financial API. [link](https://github.com/AngeloFinassi/stock-investment-system-Project)
 
 **NuControl**
 Web application for analyzing Nubank account invoices, with login, file upload, spreadsheet reading system, for dashboard viewing using the Chart.js library with intelligent categorization. [link](https://github.com/AngeloFinassi/NuControl)
-
-**Solar Tracker**
-The Solar Tracker is a project that combines microcontroller programming (Arduino-ATmega328P), sensor integration (such as LDRs), and motor control to create an efficient and autonomous platform. This robotics project uses C++, electronics, and mechanics. [link](https://github.com/AngeloFinassi/Solar-Tracker---TCC)
 
 ---
 
